@@ -1,3 +1,0 @@
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home2/ehsydkaj/public_html/
