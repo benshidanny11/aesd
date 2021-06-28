@@ -133,7 +133,12 @@ section{
 }
 .background-img{
 	background-repeat: repeat;
-	background-image: url(images/body-bg.jpg);
+	background-image: url(extra-images/backlight.jpg);
+}
+
+.background-img-section{
+ background-image: url(extra-images/backlight.jpg);	
+ background-repeat: no-repeat;
 }
 /*
 	  ============================================================
@@ -1300,7 +1305,7 @@ section{
 .team-title{
 	float: left;
 	width: 100%;
-	font-size: 24px;
+	font-size: 18px;
 	margin: 0 0 5px 0;
 	font-weight: bold;
 	line-height: normal;
@@ -4729,4 +4734,12 @@ ul.social-btns li a {
 }
 #img-1{
 	width:100%;
+}
+.mt-4{
+	margin-top: 4rem !important;
+}
+.separator{
+	height: 5rem !important;
+	width: 100% !important;
+	background-color: #07b5c1;
 }
